@@ -1,3 +1,8 @@
+package Query;
+import StorageManager.StorageManager;
+import Transaction.TransactionManager;
+
+
 public class QueryProcessor {
     private StorageManager storageManager;
     private TransactionManager transactionManager;

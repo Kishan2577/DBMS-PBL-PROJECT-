@@ -1,5 +1,8 @@
+package StorageManager;
 import java.io.*;
 import java.util.*;
+
+import Table.Table;
 
 public class StorageManager {
     private Map<String, Table> tables;

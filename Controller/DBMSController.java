@@ -1,4 +1,7 @@
+package Controller;
 import java.util.Scanner;
+
+import Query.QueryProcessor;
 
 public class DBMSController {
     private QueryProcessor queryProcessor;
